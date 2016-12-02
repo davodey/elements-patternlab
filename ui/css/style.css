@@ -1159,8 +1159,8 @@ kbd {
 
 @font-face {
   font-family: 'pearson-fa';
-  src: url("/fonts/pearson-fa.eot?i9zm12");
-  src: url("/fonts/pearson-fa.eot?i9zm12#iefix") format("embedded-opentype"), url("/fonts/pearson-fa.ttf?i9zm12") format("truetype"), url("/fonts/pearson-fa.woff?i9zm12") format("woff"), url("/fonts/pearson-fa.svg?i9zm12#pearson-fa") format("svg");
+  src: url("../fonts/pearson-fa.eot");
+  src: url("../fonts/pearson-fa.eot#iefix") format("embedded-opentype"), url("../fonts/pearson-fa.ttf") format("truetype"), url("../fonts/pearson-fa.woff") format("woff"), url("../fonts/pearson-fa.svg2#pearson-fa") format("svg");
   font-weight: normal;
   font-style: normal;
 }
